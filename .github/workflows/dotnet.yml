@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: ImportTablePatcher
-        path: output
+        path: D:\a\ImportTablePatcher\ImportTablePatcher\ImportTablePatcher\output\
