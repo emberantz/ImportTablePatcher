@@ -2,7 +2,7 @@ name: ImportTablePatcher Build
 
 on:
   push:
-    branches: master
+    branches: main
 
 jobs:
   build:
